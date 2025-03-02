@@ -9,11 +9,11 @@ This project implements both **iterative** and **recursive** DNS lookups using t
 
 ## Group Members
 
-### 1. Aravind Seshadri - 210180
+1. Aravind Seshadri - 210180
 
-### 2. Sumay Avi - 211071
+2. Sumay Avi - 211071
 
-### 3. Kapu Nirmal Joshua -210489
+3. Kapu Nirmal Joshua -210489
 
 ## 1. How to Clone and Set Up
 
